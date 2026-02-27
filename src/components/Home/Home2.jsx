@@ -13,7 +13,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Front-End who loves transforming ideas into
+              I’m a Front-End developer who loves transforming ideas into
               reliable, scalable products. Over time, I’ve explored several
               technologies and found my passion in building high-performance
               systems and intuitive user experiences.
