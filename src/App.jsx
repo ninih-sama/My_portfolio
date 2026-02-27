@@ -15,6 +15,7 @@ function App() {
 
         {/* Contenu principal qui pousse le footer vers le bas */}
         <div className="flex-grow-1">
+
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/project" element={<Projects />} />
